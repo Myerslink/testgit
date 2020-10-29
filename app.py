@@ -1,6 +1,6 @@
 from math import *
 
-char_name = "Jane \\ Doe\""
+char_name = "Jane \\ Doe Doe\""
 char_age = "15"
 print(len(char_name))
 print("TESTING " + char_name + " 2 " + char_age)
